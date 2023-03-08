@@ -30,6 +30,16 @@ var portfolioCollection = [
 		"name": "Theme Clock",
 		"info": "Front-end using vanilla Javascript, CSS and HTML",
 		"url": ""
+	},
+	{
+		"name": "Countdown",
+		"info": "Front-end using vanilla Javascript, CSS and HTML",
+		"url": ""
+	},
+	{
+		"name": "Increment Counter",
+		"info": "Front-end using vanilla Javascript, CSS and HTML",
+		"url": ""
 	}
 	
 ];
