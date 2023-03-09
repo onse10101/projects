@@ -2,13 +2,13 @@ var portfolioCollection = [
 
 	{
 		"name": "Music Player",
-		"info": "Front-end : Javascript, CSS and HTML",
+		"info": "Front-end: Javascript, CSS and HTML",
 		"url": ""
 	},
 
 	{
 		"name": "NASA APOD",
-		"info": "NASA picture of a day using javascript and NASA Api",
+		"info": "Front-end: Javascript, CSS and HTML",
 		"url": ""
 	},
 	{
@@ -27,20 +27,11 @@ var portfolioCollection = [
 		"url": ""
 	},
 	{
-		"name": "Theme Clock",
-		"info": "Front-end using vanilla Javascript, CSS and HTML",
-		"url": ""
-	},
-	{
-		"name": "Countdown",
-		"info": "Front-end using vanilla Javascript, CSS and HTML",
-		"url": ""
-	},
-	{
-		"name": "Increment Counter",
+		"name": "Kanban Board",
 		"info": "Front-end using vanilla Javascript, CSS and HTML",
 		"url": ""
 	}
+
 	
 ];
 
